@@ -14,7 +14,6 @@ questions =
             "Yerel yönetimlerin daha fazla yetkiye sahip olması gerekir.",
             "Yasalar, ülke içinde, bölgeden bölgeye ve kültürden kültüre farklılık göstermelidir.",
             "Bir politikayı ülke çapında hemen uygulamak yerine önce tek bir eyalette test etmek iyi bir fikirdir."
-
         ],
         [//1
             "Yerel yönetimler, vatandaşları, ulusal hükûmetten daha iyi anlar.",
@@ -295,7 +294,6 @@ questions =
             "Yakın gelecekte Mars'a insan göndermeliyiz.",
             "Bilim ve ilerleme için, ürünlerin hayvanlar üzerinde test edilmesi etiktir.",
             "Teknolojik ilerleme iyidir."
-
         ],
         [//1
             "İnsan kaynaklı iklim değişikliği, yaşam tarzımıza yönelik en büyük tehditlerden biridir.",
@@ -363,3 +361,4 @@ questions =
             "Açık sınırların zarardan ziyade fayda sağlar."
         ]
     ]];
+    
