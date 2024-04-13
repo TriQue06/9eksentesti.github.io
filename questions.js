@@ -1,363 +1,363 @@
 questions =
     [[//Federal-Unitary`
         [//4
-            "Ulusal hükûmete gerek yoktur.",
-            "Ulusların alt bölümlerinin kendi orduları olmalıdır.",
-            "Eyalet kanunları, ulusal kanunlardan tamamıyla öncelikli olmalıdır."
+            "Ulusal hukûmete gerek yoktur.",
+            "Uluslarin alt bolumlerinin kendi ordulari olmalidir.",
+            "Eyalet kanunlari, ulusal kanunlardan tamamiyla oncelikli olmalidir."
         ],
         [//3
-            "Eyalet kanunları ve yerel kanunlar, ulusal kanunlara göre öncelikli olmalıdır.",
-            "Ulusal hükûmet, halkın neye ihtiyacı olduğunu tam olarak anlayamaz.",
-            "İnsanlar ülkelerinden ziyade yerel devlet ve yönetimlere bağlı olmalıdır."
+            "Eyalet kanunlari ve yerel kanunlar, ulusal kanunlara gore oncelikli olmalidir.",
+            "Ulusal hukûmet, halkin neye ihtiyaci oldugunu tam olarak anlayamaz.",
+            "Insanlar ulkelerinden ziyade yerel devlet ve yonetimlere bagli olmalidir."
         ],
         [//2
-            "Yerel yönetimlerin daha fazla yetkiye sahip olması gerekir.",
-            "Yasalar, ülke içinde, bölgeden bölgeye ve kültürden kültüre farklılık göstermelidir.",
-            "Bir politikayı ülke çapında hemen uygulamak yerine önce tek bir eyalette test etmek iyi bir fikirdir."
+            "Yerel yonetimlerin daha fazla yetkiye sahip olmasi gerekir.",
+            "Yasalar, ulke icinde, bolgeden bolgeye ve kulturden kulture farklilik gostermelidir.",
+            "Bir politikayi ulke capinda hemen uygulamak yerine once tek bir eyalette test etmek iyi bir fikirdir."
         ],
         [//1
-            "Yerel yönetimler, vatandaşları, ulusal hükûmetten daha iyi anlar.",
-            "Yerel yönetimler, ulusal hükûmetin yerel yönetimler olmadan ele alamayacağı sorunları ele alır.",
-            "Yerel yönetimler, her bölgenin görüşlerinin iyi bir şekilde temsil edilmesini sağlar."
+            "Yerel yonetimler, vatandaslari, ulusal hukûmetten daha iyi anlar.",
+            "Yerel yonetimler, ulusal hukûmetin yerel yonetimler olmadan ele alamayacagi sorunlari ele alir.",
+            "Yerel yonetimler, her bolgenin goruslerinin iyi bir sekilde temsil edilmesini saglar."
         ],
         [//-1
-            "Bir ülke, ulusal hükûmet olmadan işleyemez.",
-            "Ulusal hükûmet, azınlıkları, bazı yerel yönetimlerden daha iyi korur.",
-            "Yerel yönetimlerin anlamsız olduğu pek çok durum var."
+            "Bir ulke, ulusal hukûmet olmadan isleyemez.",
+            "Ulusal hukûmet, azinliklari, bazi yerel yonetimlerden daha iyi korur.",
+            "Yerel yonetimlerin anlamsiz oldugu pek cok durum var."
         ],
         [//-2
-            "Ulusal hükûmet daha fazla güce ihtiyacı var.",
-            "Alt bölümler, ulusal yasalardan sorumlu olmalıdır.",
-            "İnsanlar kendilerini yerel devletinin değil ulusal milletinin vatandaşı olarak düşünmelidir."
+            "Ulusal hukûmet daha fazla guce ihtiyaci var.",
+            "Alt bolumler, ulusal yasalardan sorumlu olmalidir.",
+            "Insanlar kendilerini yerel devletinin degil ulusal milletinin vatandasi olarak dusunmelidir."
         ],
         [//-3
-            "Güçlü bir ulusal hükûmeti olmayan yerel yönetim, hiçbir şeydir.",
-            "Ulusal hükûmet, tüm vatandaşlarını koruyacak kadar güçlü olmalıdır.",
-            "Yerel yönetimler, ulusal hükûmeti kadar işlevsel olamaz."
+            "Guclu bir ulusal hukûmeti olmayan yerel yonetim, hicbir seydir.",
+            "Ulusal hukûmet, tum vatandaslarini koruyacak kadar guclu olmalidir.",
+            "Yerel yonetimler, ulusal hukûmeti kadar islevsel olamaz."
         ],
         [//-4
-            "Yerel veya özerk yönetimlere ihtiyacımız yok.",
-            "Yasalar, devletin her yerinde eşit ve kararlı uygulanmalıdır.",
-            "Yerel yönetimler, ulusal milleti zayıflatır."
+            "Yerel veya ozerk yonetimlere ihtiyacimiz yok.",
+            "Yasalar, devletin her yerinde esit ve kararli uygulanmalidir.",
+            "Yerel yonetimler, ulusal milleti zayiflatir."
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direk demokrasi en iyi yönetim biçimidir.",
-            "İnsanlar, kendi sorunlarına göre oy vermeliler.",
+            "Direk demokrasi en iyi yonetim bicimidir.",
+            "Insanlar, kendi sorunlarina gore oy vermeliler.",
             "Meclis ve milletvekilleri, iyi bir sistemdir ve bizi temsil eder."
         ],
         [//3
-            "Hükûmetin, çoğunluğun fikrine göre hareket etmesi önemlidir, yanlış bile olsa.",
-            "Daha fazla insana soruldukça daha doğru sonuçlara ulaşılır.",
-            "Benim görüşlerimi en iyi ben bilir ve temsil edebilirim."
+            "Hukûmetin, cogunlugun fikrine gore hareket etmesi onemlidir, yanlis bile olsa.",
+            "Daha fazla insana soruldukca daha dogru sonuclara ulasilir.",
+            "Benim goruslerimi en iyi ben bilir ve temsil edebilirim."
         ],
         [//2
-            "Seçimler, hükûmete olumlu veya olumsuz mesaj vermenin en iyi yoludur.",
-            "Demokrasi en iyi sistem değildir fakat denediklerimiz arasında en kötüsü de değildir.",
-            "Herkesin oyu eşit olmalıdır."
+            "Secimler, hukûmete olumlu veya olumsuz mesaj vermenin en iyi yoludur.",
+            "Demokrasi en iyi sistem degildir fakat denediklerimiz arasinda en kotusu de degildir.",
+            "Herkesin oyu esit olmalidir."
         ],
         [//1
-            "Demokras, bir karar verme sürecinden fazlasıdır.",
-            "İnsanlar, yöneticilerini seçebilecek hakka ve güce sahip olmalıdır.",
-            "Hükûmet her zaman halkının yanında olmalıdır."
+            "Demokras, bir karar verme surecinden fazlasidir.",
+            "Insanlar, yoneticilerini secebilecek hakka ve guce sahip olmalidir.",
+            "Hukûmet her zaman halkinin yaninda olmalidir."
         ],
         [//-1
-            "Lider ne kadar güçlüyse o kadar iyi.",
-            "Çoğunluğun görüşü her zaman doğru olmayabilir.",
-            "Liderler güçlü olmalı, yoksa halk acı çeker."
+            "Lider ne kadar gucluyse o kadar iyi.",
+            "Cogunlugun gorusu her zaman dogru olmayabilir.",
+            "Liderler guclu olmali, yoksa halk aci ceker."
         ],
         [//-2
-            "Hiyerarşik düzen en iyisidir.",
-            "Toplum, liderler ve onları takip edenler olmadan var olamaz.",
-            "Demokrasi, azınlığın, çoğunluk tarafından ezilmesini kolaylaştırır."
+            "Hiyerarsik duzen en iyisidir.",
+            "Toplum, liderler ve onlari takip edenler olmadan var olamaz.",
+            "Demokrasi, azinligin, cogunluk tarafindan ezilmesini kolaylastirir."
         ],
         [//-3
-            "Halk genelde yanlış kararlar verir.",
-            "Kendi hedeflerimizi diğer grupların hedeflerinin üzerinde tutmamız önemlidir, demokratik olmasa bile.",
-            "Halk, siyaset yapamayacak kadar duygusal ve değişkendir."
+            "Halk genelde yanlis kararlar verir.",
+            "Kendi hedeflerimizi diger gruplarin hedeflerinin uzerinde tutmamiz onemlidir, demokratik olmasa bile.",
+            "Halk, siyaset yapamayacak kadar duygusal ve degiskendir."
         ],
         [//-4
-            "Seçimler, kaynak israfıdır.",
-            "Halka doğrudan hizmet etmek çoğunlukla millete zarar verir.",
-            "Halk, liderini sorgusuz sualsiz takip etmeli ve sorgulamamalıdır."
+            "Secimler, kaynak israfidir.",
+            "Halka dogrudan hizmet etmek cogunlukla millete zarar verir.",
+            "Halk, liderini sorgusuz sualsiz takip etmeli ve sorgulamamalidir."
         ]],[//Globalist-Isolationist
         [//4
-            "Tek dünya devleti, tek dünya dili ve tek dünya kültürü insanlığa faydalı olacaktır.",
-            "Biz, her kimlikten öte Dünya Vatandaşı'yız.,
-            "İnsanlığın hayatta kalabilmesi için ulus ayrımından kurtulmalıyız."
+            "Tek dunya devleti, tek dunya dili ve tek dunya kulturu insanliga faydali olacaktir.",
+            "Biz, her kimlikten ote Dunya Vatandasi'yiz.,
+            "Insanligin hayatta kalabilmesi icin ulus ayrimindan kurtulmaliyiz."
         ],
         [//3
-            "Birleşmiş Milletler'in daha fazla güce ihtiyacı var.",
-            "Birleşmiş Milletler, ortak bir orduya sahip olmalı.",
-            "Çatışma potansiyeli olan ulusların olması, insanlık için bir tehdittir."
+            "Birlesmis Milletler'in daha fazla guce ihtiyaci var.",
+            "Birlesmis Milletler, ortak bir orduya sahip olmali.",
+            "Catisma potansiyeli olan uluslarin olmasi, insanlik icin bir tehdittir."
         ],
         [//2
-            "Avrupa Birliği gibi birlikleri destekliyorum.",
-            "Hükûmetleri, uluslararası tüm dünya toplumuna karşı sorumlu olmalıdır.",
-            "Ulusların birbiriyle kavgası, ilerleme için bir engeldir."
+            "Avrupa Birligi gibi birlikleri destekliyorum.",
+            "Hukûmetleri, uluslararasi tum dunya toplumuna karsi sorumlu olmalidir.",
+            "Uluslarin birbiriyle kavgasi, ilerleme icin bir engeldir."
         ],
         [//1
-            "Uluslararası ticaret faydalıdır.",
-            "İttifak ve birlikler, ulusları korumak için önemlidir.",
-            "İki millet, ikisinin de yararınaysa işbirliği yapmalıdır."
+            "Uluslararasi ticaret faydalidir.",
+            "Ittifak ve birlikler, uluslari korumak icin onemlidir.",
+            "Iki millet, ikisinin de yararinaysa isbirligi yapmalidir."
         ],
         [//-1
-            "Ulusal egemenliğimizi korumak önceliklidir.",
-            "Benim milletim, benim görüşlerime diğer milletlere kıyasla daha yakındır.",
-            "Ülkemde olmaktan gurur duyuyorum."
+            "Ulusal egemenligimizi korumak onceliklidir.",
+            "Benim milletim, benim goruslerime diger milletlere kiyasla daha yakindir.",
+            "Ulkemde olmaktan gurur duyuyorum."
         ],
         [//-2
-            "Uluslararası yardım para israfıdır.",
-            "İttifaklar ve birlikler, ulusların egemenlikleri için bir tehdittir.",
-            "Milletimin kendi kültürünü muhafaza etmesi önemlidir."
+            "Uluslararasi yardim para israfidir.",
+            "Ittifaklar ve birlikler, uluslarin egemenlikleri icin bir tehdittir.",
+            "Milletimin kendi kulturunu muhafaza etmesi onemlidir."
         ],
         [//-3
-            "Milletim, uluslararası işlerden uzak durmalıdır.",
-            "Birleşmiş Milletler gibi birlikler ortadan kaldırılmalıdır.",
-            "Diğer milletler bizim yararımızı düşünmezler."
+            "Milletim, uluslararasi islerden uzak durmalidir.",
+            "Birlesmis Milletler gibi birlikler ortadan kaldirilmalidir.",
+            "Diger milletler bizim yararimizi dusunmezler."
         ],
         [//-4
-            "Devletler arası diplomasi, milletlere zarar verir.",
-            "Uluslararası yasalar ortadan kaldırılmalıdır.",
-            "Diğer milletlerin bize sunacağı anlaşmalar hiçbir şekilde yararımıza olamaz."
+            "Devletler arasi diplomasi, milletlere zarar verir.",
+            "Uluslararasi yasalar ortadan kaldirilmalidir.",
+            "Diger milletlerin bize sunacagi anlasmalar hicbir sekilde yararimiza olamaz."
         ]],[//Militarist-Pacifist
         [//4
-            "Ekonomik büyüme için savaşa ihtiyacımız var.",
-            "Sürekli savaş durumu, bir ülke için faydalıdır.",
-            "Seçimlerde sadece orduda görevli olanlar oy vermelidir."
+            "Ekonomik buyume icin savasa ihtiyacimiz var.",
+            "Surekli savas durumu, bir ulke icin faydalidir.",
+            "Secimlerde sadece orduda gorevli olanlar oy vermelidir."
         ],
         [//3
-            "Zorunlu askerlik olmalıdır.",
-            "Bize yarar sağlamayan ülkelere düşman olmalı ve hatta onları yıkmalıyız.",
-            "Yalnızca orduda görev yapmış olanlar siyasetçi ve devlet adamı olabilmelidir."
+            "Zorunlu askerlik olmalidir.",
+            "Bize yarar saglamayan ulkelere dusman olmali ve hatta onlari yikmaliyiz.",
+            "Yalnizca orduda gorev yapmis olanlar siyasetci ve devlet adami olabilmelidir."
         ],
         [//2
-            "Ulusumuzun askerî harekâtları, ulusumuzun güvenliği için gereklidir.",
-            "İnsan haklarını ihlal eden ülkeler yıkılmalıdır.",
-            "Askeri seçenek her zaman bir seçenek olmalıdır."
+            "Ulusumuzun askerî harekâtlari, ulusumuzun guvenligi icin gereklidir.",
+            "Insan haklarini ihlal eden ulkeler yikilmalidir.",
+            "Askeri secenek her zaman bir secenek olmalidir."
         ],
         [//1
-            "Bir hükûmetin kendini koruyabilmesi için güçlü bir ordu, olmazsa olmazdır.",
-            "Bir millet, var olabilmek için bir orduya sahip olmalıdır.",
-            "Orduda görev yapmış olanlara saygı duyulmalıdır."
+            "Bir hukûmetin kendini koruyabilmesi icin guclu bir ordu, olmazsa olmazdir.",
+            "Bir millet, var olabilmek icin bir orduya sahip olmalidir.",
+            "Orduda gorev yapmis olanlara saygi duyulmalidir."
         ],
         [//-1
-            "Gücümüzü artırmak yerine barışçıl ilişkileri korumak ve sürdürmek daha faydalıdır.",
-            "Savaştan önce mutlaka diplomatik çözümler denenmelidir.",
-            "Barış mümkün olduğu sürece savaşa tercih edilmelidir."
+            "Gucumuzu artirmak yerine bariscil iliskileri korumak ve surdurmek daha faydalidir.",
+            "Savastan once mutlaka diplomatik cozumler denenmelidir.",
+            "Baris mumkun oldugu surece savasa tercih edilmelidir."
         ],
         [//-2
-            "Otoriter bir rejimi protesto ederken bile şiddet kabul edilemez.",
-            "Kalıcı barış; refah, huzur ve zenginliği getirir.",
-            "Savaş genellikle daha kötü sonuçlara sebep olur."
+            "Otoriter bir rejimi protesto ederken bile siddet kabul edilemez.",
+            "Kalici baris; refah, huzur ve zenginligi getirir.",
+            "Savas genellikle daha kotu sonuclara sebep olur."
         ],
         [//-3
-            "Askerî harcamalar para ve kaynak israfıdır.",
-            "Başka ülkelere askerî müdahalelerde bulunmaya hakkımız yok.",
-            "Ülkeler, savaşlarla parçalanır."
+            "Askerî harcamalar para ve kaynak israfidir.",
+            "Baska ulkelere askerî mudahalelerde bulunmaya hakkimiz yok.",
+            "Ulkeler, savaslarla parcalanir."
         ],
         [//-4
-            "Savaş hiçbir şekilde kabul edilemez ve meşrulaştırılamaz.",
-            "Modern çağda orduya ihtiyaç yok.",
-            "Uluslar, ordularını ortadan kaldırmalıdır."
+            "Savas hicbir sekilde kabul edilemez ve mesrulastirilamaz.",
+            "Modern cagda orduya ihtiyac yok.",
+            "Uluslar, ordularini ortadan kaldirmalidir."
         ]],[//Security-Freedom
         [//4
-            "Hükûmetle aynı fikirde olmayanlar uzaklaştırılmalıdır.",
-            "Hükûmet, terörle mücadele için tüm vatandaşlarını denetime tabi tutmalıdır.",
-            "İnsanların suçlarınının ortaya çıkmasına engel olabilecek tüm engeller ortadan kaldırılmalıdır."
+            "Hukûmetle ayni fikirde olmayanlar uzaklastirilmalidir.",
+            "Hukûmet, terorle mucadele icin tum vatandaslarini denetime tabi tutmalidir.",
+            "Insanlarin suclarininin ortaya cikmasina engel olabilecek tum engeller ortadan kaldirilmalidir."
         ],
         [//3
-            "Polisin, güvenliğimiz için daha fazla güce ve yetkiye ihtiyacı var.",
-            "Kanunları ve düzeni korumak güvenliğimiz için çok önemlidir.",
-            "Bir ülke, yasaları uygulayabilmek için her türlü tedbiri almalıdır."
+            "Polisin, guvenligimiz icin daha fazla guce ve yetkiye ihtiyaci var.",
+            "Kanunlari ve duzeni korumak guvenligimiz icin cok onemlidir.",
+            "Bir ulke, yasalari uygulayabilmek icin her turlu tedbiri almalidir."
         ],
         [//2
-            "Devletin bizi izleyip denetlemesinden, eğer suçlu değilsek, endişe duymamıza gerek yok.",
-            "Hükûmetin bizi terör eylemlerinden koruyabilmesi için bazı özgürlüklerimizden fedakârlık etmemiz gerekir.",
-            "Modern dünyada hükûmetin gözetimi gereklidir."
+            "Devletin bizi izleyip denetlemesinden, eger suclu degilsek, endise duymamiza gerek yok.",
+            "Hukûmetin bizi teror eylemlerinden koruyabilmesi icin bazi ozgurluklerimizden fedakârlik etmemiz gerekir.",
+            "Modern dunyada hukûmetin gozetimi gereklidir."
         ],
         [//1
-            "Hükûmetin, terörist olduğundan şüphelenilen kişilerin e-postalarına erişimi olmalıdır.",
-            "Şüpheli durumlarda insanların güvende tutulması için bazı özgürlüklerden geçici olarak vazgeçilmelidir.",
-            "Aşırı özgürlük, toplumu tehlikeli kılar."
+            "Hukûmetin, terorist oldugundan suphelenilen kisilerin e-postalarina erisimi olmalidir.",
+            "Supheli durumlarda insanlarin guvende tutulmasi icin bazi ozgurluklerden gecici olarak vazgecilmelidir.",
+            "Asiri ozgurluk, toplumu tehlikeli kilar."
         ],
         [//-1
-            "Esrar yasallaştırılmalı.",
-            "Güvenlik riski olsa da özgürlük öncelikli olmalıdır.",
-            "Hükûmetin özel hayatlarla ilgisi olmamalıdır."
+            "Esrar yasallastirilmali.",
+            "Guvenlik riski olsa da ozgurluk oncelikli olmalidir.",
+            "Hukûmetin ozel hayatlarla ilgisi olmamalidir."
         ],
         [//-2
-            "Kürtaj her durumda yasal olmalıdır.",
-            "Polisin yetkileri azaltılabilir.",
-            "Her otorite sorgulanmalıdır."
+            "Kurtaj her durumda yasal olmalidir.",
+            "Polisin yetkileri azaltilabilir.",
+            "Her otorite sorgulanmalidir."
         ],
         [//-3
-            "Kurbansız suçlar (uyuşturucu kullanımı veya emniyet kemeri kullanılmaması gibi) suç olmamalıdır.",
-            "Çoğu uyuşturucu yasallaştırılmalıdır.",
-            "Emniyet kemeri kullanıp kullanmamak, sürücünün kendi isteğine bağlı olmalıdır."
+            "Kurbansiz suclar (uyusturucu kullanimi veya emniyet kemeri kullanilmamasi gibi) suc olmamalidir.",
+            "Cogu uyusturucu yasallastirilmalidir.",
+            "Emniyet kemeri kullanip kullanmamak, surucunun kendi istegine bagli olmalidir."
         ],
         [//-4
-            "Devletin varlığı, özgürlüğümüze bir tehdittir.",
-            "Polis kuvveti ortadan kaldırılmalıdır.",
-            "İnsanların özgürlüklerinin sınırsız olmalıdır."
+            "Devletin varligi, ozgurlugumuze bir tehdittir.",
+            "Polis kuvveti ortadan kaldirilmalidir.",
+            "Insanlarin ozgurluklerinin sinirsiz olmalidir."
         ]],[//Equality-Markets`
         [//4
-            "Komünizm, eğer doğru uygulanırsa, uygun bir yönetim şeklidir.",
-            "Herkesten yeteneğine göre, herkese ihtiyacına göre, temelde iyi bir fikirdir.",
-            "Sonuç eşitliği, her durumda önemli ve önceliklidir."
+            "Komunizm, eger dogru uygulanirsa, uygun bir yonetim seklidir.",
+            "Herkesten yetenegine gore, herkese ihtiyacina gore, temelde iyi bir fikirdir.",
+            "Sonuc esitligi, her durumda onemli ve onceliklidir."
         ],
         [//3
-            "Şirket baskısı, devlet baskısından çok daha endişe vericidir.",
-            "Yoksulların geçimini sağlamak için zenginlerin vergisi artırılmalıdır.",
-            "Yollar, elektrik ve kamu hizmetleri halka, çalışma aletleri işçilere ait olmalıdır."
+            "Sirket baskisi, devlet baskisindan cok daha endise vericidir.",
+            "Yoksullarin gecimini saglamak icin zenginlerin vergisi artirilmalidir.",
+            "Yollar, elektrik ve kamu hizmetleri halka, calisma aletleri iscilere ait olmalidir."
         ],
         [//2
-            "Tek ödemeli evrensel sağlık hizmetini destekliyorum.",
-            "Zenginler, ihtiyaç duyduklarından çok daha fazlasına sahipler.",
-            "Temel insan ihtiyaçları, sağlık hizmetleri gibi, ücretsiz ve erişilebilir olmalıdır."
+            "Tek odemeli evrensel saglik hizmetini destekliyorum.",
+            "Zenginler, ihtiyac duyduklarindan cok daha fazlasina sahipler.",
+            "Temel insan ihtiyaclari, saglik hizmetleri gibi, ucretsiz ve erisilebilir olmalidir."
         ],
         [//1
-            "Tüketiciyi korumak için devletin ekonomiye müdahalesi kabul edilebilir.",
-            "İnsanlar başarılı olmak için fırsat eşitliğine sahip olmalıdır.",
-            "Zengin ailelerde doğanlar, tembel ve vasıfsız olsalar da hak etmedikleri şekilde başarılı oluyorlar."
+            "Tuketiciyi korumak icin devletin ekonomiye mudahalesi kabul edilebilir.",
+            "Insanlar basarili olmak icin firsat esitligine sahip olmalidir.",
+            "Zengin ailelerde doganlar, tembel ve vasifsiz olsalar da hak etmedikleri sekilde basarili oluyorlar."
         ],
         [//-1
-            "İnsanlar, servetlerini sonraki nesillere bırakma hakkına sahip olmalıdır.",
-            "Hükûmetin ekonomiye müdahalesi, ekonomi için bir tehdittir.",
-            "Kapitalizmin olmadığı ekonomiler çöker."
+            "Insanlar, servetlerini sonraki nesillere birakma hakkina sahip olmalidir.",
+            "Hukûmetin ekonomiye mudahalesi, ekonomi icin bir tehdittir.",
+            "Kapitalizmin olmadigi ekonomiler coker."
         ],
         [//-2
-            "İşsizliği çözmek yerine enflasyonu ve bütçeyi korumak daha iyidir.",
-            "Kapitalizm, diğer tüm alternatiflerden daha iyidir.",
-            "Devletin kendi sanayisin olması kötü bir fikirdir."
+            "Issizligi cozmek yerine enflasyonu ve butceyi korumak daha iyidir.",
+            "Kapitalizm, diger tum alternatiflerden daha iyidir.",
+            "Devletin kendi sanayisin olmasi kotu bir fikirdir."
         ],
         [//-3
-            "Piyasa ne kadar özgürse insan o kadar özgür olur.",
-            "İnsan, elde edebileceği her şey için çalışmak zorunda olmalıdır.",
-            "Fakirler, fakir olmayı tercih eder."
+            "Piyasa ne kadar ozgurse insan o kadar ozgur olur.",
+            "Insan, elde edebilecegi her sey icin calismak zorunda olmalidir.",
+            "Fakirler, fakir olmayi tercih eder."
         ],
         [//-4
-            "Hükûmetin ekonomiye müdahalesi kabul dahi edilemez.",
-            "Devlet, tekellere dokunmamalıdır.",
-            "Çalışmayanlar ölmelidir."
+            "Hukûmetin ekonomiye mudahalesi kabul dahi edilemez.",
+            "Devlet, tekellere dokunmamalidir.",
+            "Calismayanlar olmelidir."
         ]],[//Secular-Religious
         [//4
-            "Din, yasaklanmalıdır.",
-            "İnanç saçmalıktan ibarettir.",
-            "Tanrı veya başka bir üst güç yoktur."
+            "Din, yasaklanmalidir.",
+            "Inanc sacmaliktan ibarettir.",
+            "Tanri veya baska bir ust guc yoktur."
         ],
         [//3
-            "Dinî kıyafetler, toplum içinde yasaklanmalıdır.",
-            "Toplumun ilerlemesi için dinler azaltılmalı veya reddedilmelidir.",
-            "Hükûmet, ibadet yerleri dahil hiçbir dinî kuruluşu fonlamamalıdır."
+            "Dinî kiyafetler, toplum icinde yasaklanmalidir.",
+            "Toplumun ilerlemesi icin dinler azaltilmali veya reddedilmelidir.",
+            "Hukûmet, ibadet yerleri dahil hicbir dinî kurulusu fonlamamalidir."
         ],
         [//2
             "Evlilik olmadan cinsellik normaldir.",
-            "Devlet katında her din eşit olmalıdır.",
-            "Dine dair her şey devletten kaldırılmalıdır."
+            "Devlet katinda her din esit olmalidir.",
+            "Dine dair her sey devletten kaldirilmalidir."
         ],
         [//1
-            "Din ile devlet arasında bir ilişki olmamalıdır.",
-            "Yasalar, din bazlı olmamalıdır.",
-            "Devlet; kilise, cami ve diğerleriyle arasında mesafe bulundurmalıdır."
+            "Din ile devlet arasinda bir iliski olmamalidir.",
+            "Yasalar, din bazli olmamalidir.",
+            "Devlet; kilise, cami ve digerleriyle arasinda mesafe bulundurmalidir."
         ],
         [//-1
-            "Ölümden sonra bir yaşam olduğuna inanıyorum.",
-            "Dinin topluma faydası vardır.",
-            "İnsanlar bir dine inanmalıdır."
+            "Olumden sonra bir yasam olduguna inaniyorum.",
+            "Dinin topluma faydasi vardir.",
+            "Insanlar bir dine inanmalidir."
         ],
         [//-2
-            "Tanrı veya başka bir üst güce inanıyorum.",
-            "Dinî kuruluşlar, yoksullara yardım konusunda devlet kuruluşları ve sivil kuruluşlardan daha iyidir.",
-            "Çocuklara dinî eğitim verilmelidir."
+            "Tanri veya baska bir ust guce inaniyorum.",
+            "Dinî kuruluslar, yoksullara yardim konusunda devlet kuruluslari ve sivil kuruluslardan daha iyidir.",
+            "Cocuklara dinî egitim verilmelidir."
         ],
         [//-3
-            "Din, doğruyu anlatır.",
-            "Dinî değerlerimiz olabildiğince çok yayılmalıdır.",
-            "Evlilik dışı cinsellik, ahlaksızlıktır."
+            "Din, dogruyu anlatir.",
+            "Dinî degerlerimiz olabildigince cok yayilmalidir.",
+            "Evlilik disi cinsellik, ahlaksizliktir."
         ],
         [//-4
-            "Teokrasi (dine dayalı yönetim), iyi bir sistemdir.",
-            "Hükûmet, yalnızca bir dini desteklemeli ve tanımalıdır.",
-            "Dünyada yaşadığımız kötü şeyler, dinden uzaklaştığımızdan dolayıdır."
+            "Teokrasi (dine dayali yonetim), iyi bir sistemdir.",
+            "Hukûmet, yalnizca bir dini desteklemeli ve tanimalidir.",
+            "Dunyada yasadigimiz kotu seyler, dinden uzaklastigimizdan dolayidir."
         ]],[//Progressive-Traditional
         [//4
-            "Eğer yapay zekâ, insanlardan daha iyi yönetebiliyorsa, yapay zekâ yönetmeli.",
-            "Genetik modifikasyon, insanlık için iyi bir güçtür.",
-            "Gelenekler, teknolojik gelişmeyi engeller."
+            "Eger yapay zekâ, insanlardan daha iyi yonetebiliyorsa, yapay zekâ yonetmeli.",
+            "Genetik modifikasyon, insanlik icin iyi bir guctur.",
+            "Gelenekler, teknolojik gelismeyi engeller."
         ],
         [//3
-            "Otomasyon (insansız, otomatik ve robotik) sistemler toplum için son derece olumludur.",
-            "Gelenekler, tek başına değersiz ve anlamsızdır.",
-            "Teknolojiyi her alana yaymalı ve kullanmalıyız."
+            "Otomasyon (insansiz, otomatik ve robotik) sistemler toplum icin son derece olumludur.",
+            "Gelenekler, tek basina degersiz ve anlamsizdir.",
+            "Teknolojiyi her alana yaymali ve kullanmaliyiz."
         ],
         [//2
-            "Yakın gelecekte Mars'a insan göndermeliyiz.",
-            "Bilim ve ilerleme için, ürünlerin hayvanlar üzerinde test edilmesi etiktir.",
+            "Yakin gelecekte Mars'a insan gondermeliyiz.",
+            "Bilim ve ilerleme icin, urunlerin hayvanlar uzerinde test edilmesi etiktir.",
             "Teknolojik ilerleme iyidir."
         ],
         [//1
-            "İnsan kaynaklı iklim değişikliği, yaşam tarzımıza yönelik en büyük tehditlerden biridir.",
-            "Çevrenin korunması için düzenlemeler önemlidir.",
-            "Daha iyi bir dünya; otomasyon, bilim ve teknolojiden doğacaktır."
+            "Insan kaynakli iklim degisikligi, yasam tarzimiza yonelik en buyuk tehditlerden biridir.",
+            "Cevrenin korunmasi icin duzenlemeler onemlidir.",
+            "Daha iyi bir dunya; otomasyon, bilim ve teknolojiden dogacaktir."
         ],
         [//-1
-            "Her ne pahasına olursa olsun ilerlemeyi kovalamak tehlikelidir.",
-            "Teknoloji her zaman faydalı değildir.",
-            "Geleneklerimiz önemlidir."
+            "Her ne pahasina olursa olsun ilerlemeyi kovalamak tehlikelidir.",
+            "Teknoloji her zaman faydali degildir.",
+            "Geleneklerimiz onemlidir."
         ],
         [//-2
             "Teknoloji, toplumu olumsuz etkiliyor.",
-            "Genetik modifikasyon, kritik ve acil olmadığı sürece yasak olmalıdır.",
-            "Aile değerlerinin muhafaza edilmesi çok önemlidir."
+            "Genetik modifikasyon, kritik ve acil olmadigi surece yasak olmalidir.",
+            "Aile degerlerinin muhafaza edilmesi cok onemlidir."
         ],
         [//-3
-            "Toplum, eskiden çok daha iyiydi.",
-            "Geçmişimizin geleneklerine sahip çıkmamız çok önemlidir.",
-            "Toplumun büyükleri, en doğru yolu bilir."
+            "Toplum, eskiden cok daha iyiydi.",
+            "Gecmisimizin geleneklerine sahip cikmamiz cok onemlidir.",
+            "Toplumun buyukleri, en dogru yolu bilir."
         ],
         [//-4
-            "Geleneksel ilaçlar, bilimsel ve modern ilaçlardan daha iyidir.",
-            "İnternet yasaklanmalıdır.",
-            "Modern kolaylıkların olmadığı temel yaşam tarzımıza acilen geri dönmeliyiz."
+            "Geleneksel ilaclar, bilimsel ve modern ilaclardan daha iyidir.",
+            "Internet yasaklanmalidir.",
+            "Modern kolayliklarin olmadigi temel yasam tarzimiza acilen geri donmeliyiz."
         ]],[//Assimilationist-Multiculturalist
         [//4
-            "Hiçbir mülteciyi kabul etmemeliyiz.",
-            "Ülkemde azınlıklar uzun yıllardır bu topraklarda yaşasalar da dilleri toplum içinde konuşulmamalıdır.",
-            "Ülkemde sadece resmi dil konuşulmalıdır."
+            "Hicbir multeciyi kabul etmemeliyiz.",
+            "Ulkemde azinliklar uzun yillardir bu topraklarda yasasalar da dilleri toplum icinde konusulmamalidir.",
+            "Ulkemde sadece resmi dil konusulmalidir."
         ],
         [//3
-            "Yalnızca son derece yetenekli ve donanımlı mültecilere izin verilmelidir.",
-            "Eğer göçmenleri kabul edeceksek, kültürümüze asimile edilmeleri olmazsa olmazdır.",
-            "Birinci nesil göçmenler, yaşam tarzımıza asla uyum sağlayamazlar."
+            "Yalnizca son derece yetenekli ve donanimli multecilere izin verilmelidir.",
+            "Eger gocmenleri kabul edeceksek, kulturumuze asimile edilmeleri olmazsa olmazdir.",
+            "Birinci nesil gocmenler, yasam tarzimiza asla uyum saglayamazlar."
         ],
         [//2
-            "Genel olarak sığınmacılar ülkemiz için kötüdür.",
-            "Milletin değerlerinin korunması ve muhafaza edilmesi olmazsa olmazdır.",
-            "Yasadışı göçmenler, ülkeye bir yarar sağlamaz."
+            "Genel olarak siginmacilar ulkemiz icin kotudur.",
+            "Milletin degerlerinin korunmasi ve muhafaza edilmesi olmazsa olmazdir.",
+            "Yasadisi gocmenler, ulkeye bir yarar saglamaz."
         ],
         [//1
-            "Yasadışı göçmenler çoğu durumda sınır dışı edilmelidir.",
-            "Göçmenlerin ülkenin dilini öğrenmesi beklenmelidir.",
-            "Sınır güvenliği önemlidir."
+            "Yasadisi gocmenler cogu durumda sinir disi edilmelidir.",
+            "Gocmenlerin ulkenin dilini ogrenmesi beklenmelidir.",
+            "Sinir guvenligi onemlidir."
         ],
         [//-1
-            "Mülteci almamız büyük bir sorun değildir.",
-            "Göçmenler, ülkemiz için faydalı ve olumludur.",
-            "Yabancı kültürleri ülkemde görmeyi seviyorum."
+            "Multeci almamiz buyuk bir sorun degildir.",
+            "Gocmenler, ulkemiz icin faydali ve olumludur.",
+            "Yabanci kulturleri ulkemde gormeyi seviyorum."
         ],
         [//-2
-            "Hiçbir kültür birbirine üstün değildir, nasıl olursa olsun.",
-            "Diğer kültürleri daha çok kabullenmeliyiz.",
-            "Bütün toplumlar, kültürlerin karışımıdır ve karışmalıdır."
+            "Hicbir kultur birbirine ustun degildir, nasil olursa olsun.",
+            "Diger kulturleri daha cok kabullenmeliyiz.",
+            "Butun toplumlar, kulturlerin karisimidir ve karismalidir."
         ],
         [//-3
-            "Göçmenlerin diline aşina olmalıyız.",
-            "Göçmenler ile vatandaşlar ortak kimliği paylaşmalıdır.",
-            "Kültürümüzü diğer kültürlerle daha çok karıştırmalıyız."
+            "Gocmenlerin diline asina olmaliyiz.",
+            "Gocmenler ile vatandaslar ortak kimligi paylasmalidir.",
+            "Kulturumuzu diger kulturlerle daha cok karistirmaliyiz."
         ],
         [//-4
-            "Hükûmetler vatandaşlarla göçmenlere eşit muamelede bulunmalıdır.",
-            "Ülkeme girmek isteyen herkes girebilmelidir.",
-            "Açık sınırların zarardan ziyade fayda sağlar."
+            "Hukûmetler vatandaslarla gocmenlere esit muamelede bulunmalidir.",
+            "Ulkeme girmek isteyen herkes girebilmelidir.",
+            "Acik sinirlarin zarardan ziyade fayda saglar."
         ]
     ]];
