@@ -361,4 +361,3 @@ questions =
             "Açık sınırların zarardan ziyade fayda sağlar."
         ]
     ]];
-    
