@@ -1,45 +1,44 @@
 questions =
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "Ulusal hukumete gerek yoktur.",
+            "Uluslarin alt bolumlerinin kendi ordulari olmalidir.",
+            "Eyalet kanunlari, ulusal kanunlardan tamamiyla oncelikli olmalidir."
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "Eyalet kanunlari ve yerel kanunlar, ulusal kanunlara gore oncelikli olmalidir.",
+            "Ulusal hukumet, halkin neye ihtiyaci oldugunu tam olarak anlayamaz.",
+            "Insanlar ulkelerinden ziyade yerel devlet ve yonetimlere bagli olmalidir."
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
-
+            "Yerel yonetimlerin daha fazla yetkiye sahip olmasi gerekir.",
+            "Yasalar, ulke icinde, bolgeden bolgeye ve kulturden kulture farklilik gostermelidir.",
+            "Bir politikayi ulke capinda hemen uygulamak yerine once tek bir eyalette test etmek iyi bir fikirdir."
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "Yerel yonetimler, vatandaslari, ulusal hukumetten daha iyi anlar.",
+            "Yerel yonetimler, ulusal hukumetin yerel yonetimler olmadan ele alamayacagi sorunlari ele alir.",
+            "Yerel yonetimler, her bolgenin goruslerinin iyi bir sekilde temsil edilmesini saglar."
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "Bir ulke, ulusal hukumet olmadan isleyemez.",
+            "Ulusal hukumet, azinliklari, bazi yerel yonetimlerden daha iyi korur.",
+            "Yerel yonetimlerin anlamsiz oldugu pek cok durum var."
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "Ulusal hukumet daha fazla guce ihtiyaci var.",
+            "Alt bolumler, ulusal yasalardan sorumlu olmalidir.",
+            "Insanlar kendilerini yerel devletinin degil ulusal milletinin vatandasi olarak dusunmelidir."
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "Guclu bir ulusal hukumeti olmayan yerel yonetim, hicbir seydir.",
+            "Ulusal hukumet, tum vatandaslarini koruyacak kadar guclu olmalidir.",
+            "Yerel yonetimler, ulusal hukumeti kadar islevsel olamaz."
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "Yerel veya ozerk yonetimlere ihtiyacimiz yok.",
+            "Yasalar, devletin her yerinde esit ve kararli uygulanmalidir.",
+            "Yerel yonetimler, ulusal milleti zayiflatir."
         ]],[//Democratic-Authoritarian`
         [//4
             "Direct democracy is the best form of government",
