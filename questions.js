@@ -1,14 +1,14 @@
 questions =
     [[//Federal-Unitary`
         [//4
-            "Ulusal hukumete gerek yoktur.",
-            "Uluslarin alt bolumlerinin kendi ordulari olmalidir.",
-            "Eyalet kanunlari, ulusal kanunlardan tamamiyla oncelikli olmalidir."
+            "Ulusal hükûmete gerek yoktur.",
+            "Ulusların alt bölümlerinin kendi orduları olmalıdır.",
+            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞ"
         ],
         [//3
-            "Eyalet kanunlari ve yerel kanunlar, ulusal kanunlara gore oncelikli olmalidir.",
-            "Ulusal hukumet, halkin neye ihtiyaci oldugunu tam olarak anlayamaz.",
-            "Insanlar ulkelerinden ziyade yerel devlet ve yonetimlere bagli olmalidir."
+            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞ",
+            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞLŞŞŞŞŞŞŞŞŞŞŞŞĞĞĞĞĞĞ",
+            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞÜÜÜÜÜÜÜÜÜÜÜ"
         ],
         [//2
             "Yerel yonetimlerin daha fazla yetkiye sahip olmasi gerekir.",
