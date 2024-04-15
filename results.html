@@ -1,7 +1,7 @@
 <head>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
 <link href='style.css' rel='stylesheet' type='text/css'>
-<title>9Axes Results</title>
+<title>9 Eksen Sonuçları</title>
 <link rel="icon" type="x-icon" href="icon.png">
 <link rel="shortcut icon" type="x-icon" href="icon.png">
 <meta charset="utf-8">
@@ -10,10 +10,10 @@
 </script>
 
 <body>
-<h1>9Axes</h1>
+<h1>9 Eksen</h1>
 <hr>
 
-<h1>Results</h1>
+<h1>Sonuçlar</h1>
 
 <h2><span class="weight-300" id="a-label"></span></h2>
 <div class="axis">
@@ -81,14 +81,13 @@
 
 <br><br>
 
-<h2 class="ideology">Closest Match: <span class="weight-300" id="ideology-label"></span></h1>
-<p class="ideology">Your 8values ideology (see https://8values.github.io for more information)</p>
+<h2 class="ideology">En Yakın İdeoloji: <span class="weight-300" id="ideology-label"></span></h1>
 <p class="ideology">Please note this does only factor the Democratic-Authoritarian, Globalist-Isolationist, Equality-Markets, and Progressive-Traditional axes.</p>
 
 <br><br>
 
 <canvas id="banner" width=800 height=1200 style="font-family:Montserrat"></canvas>
-<button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
+<button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Geri</button> <br>
 <script>
     function getQueryVariable(variable)
     {
@@ -318,7 +317,6 @@
         if (i2  > 20) {ctx.fillText(i2 + "%", 670, 1147.5)}
 
         ctx.font="300 30px Montserrat"
-        ctx.fillText("9Axes.github.io", 780, 55)
         ctx.textAlign="center"
         ctx.fillText(document.getElementById("a-label").innerHTML, 400, 125)
         ctx.fillText(document.getElementById("b-label").innerHTML, 400, 245)

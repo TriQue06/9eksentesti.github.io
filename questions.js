@@ -26,7 +26,7 @@ questions =
             "Yerel yönetimlerin anlamsız olduğu pek çok durum var."
         ],
         [//-2
-            "Ulusal hükûmet daha fazla güce ihtiyacı var.",
+            "Ulusal hükûmetin daha fazla güce ihtiyacı var.",
             "Alt bölümler, ulusal yasalardan sorumlu olmalıdır.",
             "İnsanlar kendilerini yerel devletinin değil ulusal milletinin vatandaşı olarak düşünmelidir."
         ],
@@ -66,7 +66,7 @@ questions =
             "Liderler güçlü ve kısmen de olsa otoriter olmalı, yoksa halk acı çeker."
         ],
         [//-2
-            "Hiyerarşik (toplumsal  düzen en iyisidir.",
+            "Hiyerarşik (toplumsal sınıflar)  düzen en iyisidir.",
             "Toplum, liderler ve onları takip edenler olmadan var olamaz.",
             "Demokrasi, azınlığın, çoğunluk tarafından ezilmesini kolaylaştırır."
         ],
@@ -86,9 +86,9 @@ questions =
             "İnsanlığın hayatta kalabilmesi için ulus ayrımından kurtulmalıyız."
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "Birleşmiş Milletler'in daha fazla güce ihtiyacı var.",
+            "Birleşmiş Milletler, ortak bir orduya sahip olmalı.",
+            "Çatışma potansiyeli olan ulusların olması, insanlık için bir tehdittir."
         ],
         [//2
             "Avrupa Birliği gibi birlikleri destekliyorum.",
@@ -203,12 +203,12 @@ questions =
         [//4
             "Komünizm, eğer doğru uygulanırsa, uygun bir yönetim şeklidir.",
             "Herkesten yeteneğine göre, herkese ihtiyacına göre, temelde iyi bir fikirdir.",
-            "Sonuç eşitliği, her durumda önemli ve önceliklidir."
+            "Yollar, elektrik ve kamu hizmetleri halka, çalışma aletleri işçilere ait olmalıdır."
         ],
         [//3
             "Şirket baskısı, devlet baskısından çok daha endişe vericidir.",
             "Yoksulların geçimini sağlamak için zenginlerin vergisi artırılmalıdır.",
-            "Yollar, elektrik ve kamu hizmetleri halka, çalışma aletleri işçilere ait olmalıdır."
+            "Fırsat eşitliği, ne olursa olsun, zorunlu olmalıdır."
         ],
         [//2
             "Tek ödemeli evrensel (devletin karşıladığı) sağlık hizmetini destekliyorum.",
