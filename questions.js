@@ -3,87 +3,87 @@ questions =
         [//4
             "Ulusal hükûmete gerek yoktur.",
             "Ulusların alt bölümlerinin kendi orduları olmalıdır.",
-            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞ"
+            "Eyalet kanunları, ulusal kanunlardan tamamıyla öncelikli olmalıdır."
         ],
         [//3
-            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞ",
-            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞLŞŞŞŞŞŞŞŞŞŞŞŞĞĞĞĞĞĞ",
-            "ĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞĞÜÜÜÜÜÜÜÜÜÜÜ"
+            "Eyalet kanunları ve yerel kanunlar, ulusal kanunlara göre öncelikli olmalıdır.",
+            "Ulusal hükûmet, halkın neye ihtiyacı olduğunu tam olarak anlayamaz.",
+            "İnsanlar ülkelerinden ziyade yerel devlet ve yönetimlere bağlı olmalıdır."
         ],
         [//2
-            "Yerel yonetimlerin daha fazla yetkiye sahip olmasi gerekir.",
-            "Yasalar, ulke icinde, bolgeden bolgeye ve kulturden kulture farklilik gostermelidir.",
-            "Bir politikayi ulke capinda hemen uygulamak yerine once tek bir eyalette test etmek iyi bir fikirdir."
+            "Yerel yönetimlerin daha fazla yetkiye sahip olması gerekir.",
+            "Yasalar, ülke içinde, bölgeden bölgeye ve kültürden kültüre farklılık göstermelidir.",
+            "Bir politikayı ülke çapında hemen uygulamak yerine önce tek bir eyalette test etmek iyi bir fikirdir."
         ],
         [//1
-            "Yerel yonetimler, vatandaslari, ulusal hukumetten daha iyi anlar.",
-            "Yerel yonetimler, ulusal hukumetin yerel yonetimler olmadan ele alamayacagi sorunlari ele alir.",
-            "Yerel yonetimler, her bolgenin goruslerinin iyi bir sekilde temsil edilmesini saglar."
+            "Yerel yönetimler, vatandaşları, ulusal hükûmetten daha iyi anlar.",
+            "Yerel yönetimler, ulusal hükûmetin yerel yönetimler olmadan ele alamayacağı sorunları ele alır.",
+            "Yerel yönetimler, her bölgenin görüşlerinin iyi bir şekilde temsil edilmesini sağlar."
         ],
         [//-1
-            "Bir ulke, ulusal hukumet olmadan isleyemez.",
-            "Ulusal hukumet, azinliklari, bazi yerel yonetimlerden daha iyi korur.",
-            "Yerel yonetimlerin anlamsiz oldugu pek cok durum var."
+            "Bir ülke, ulusal hükûmet olmadan işleyemez.",
+            "Ulusal hükûmet, azınlıkları, bazı yerel yönetimlerden daha iyi korur.",
+            "Yerel yönetimlerin anlamsız olduğu pek çok durum var."
         ],
         [//-2
-            "Ulusal hukumet daha fazla guce ihtiyaci var.",
-            "Alt bolumler, ulusal yasalardan sorumlu olmalidir.",
-            "Insanlar kendilerini yerel devletinin degil ulusal milletinin vatandasi olarak dusunmelidir."
+            "Ulusal hükûmet daha fazla güce ihtiyacı var.",
+            "Alt bölümler, ulusal yasalardan sorumlu olmalıdır.",
+            "İnsanlar kendilerini yerel devletinin değil ulusal milletinin vatandaşı olarak düşünmelidir."
         ],
         [//-3
-            "Guclu bir ulusal hukumeti olmayan yerel yonetim, hicbir seydir.",
-            "Ulusal hukumet, tum vatandaslarini koruyacak kadar guclu olmalidir.",
-            "Yerel yonetimler, ulusal hukumeti kadar islevsel olamaz."
+            "Güçlü bir ulusal hükûmeti olmayan yerel yönetim, hiçbir şeydir.",
+            "Ulusal hükûmet, tüm vatandaşlarını koruyacak kadar güçlü olmalıdır.",
+            "Yerel yönetimler, ulusal hükûmeti kadar işlevsel olamaz."
         ],
         [//-4
-            "Yerel veya ozerk yonetimlere ihtiyacimiz yok.",
-            "Yasalar, devletin her yerinde esit ve kararli uygulanmalidir.",
-            "Yerel yonetimler, ulusal milleti zayiflatir."
+            "Yerel veya özerk yönetimlere ihtiyacımız yok.",
+            "Yasalar, devletin her yerinde eşit ve kararlı uygulanmalıdır.",
+            "Yerel yönetimler, ulusal milleti zayıflatır."
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "Direk (radikal) demokrasi en iyi yönetim biçimidir.",
+            "İnsanlar, kendi sorunlarına göre oy vermeliler.",
+            "Meclis ve milletvekilleri, iyi bir sistemdir ve bizi temsil eder."
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "Hükûmetin, çoğunluğun fikrine göre hareket etmesi önemlidir, yanlış bile olsa.",
+            "Daha fazla insana soruldukça daha doğru sonuçlara ulaşılır.",
+            "Benim görüşlerimi en iyi ben bilir ve temsil edebilirim."
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "Seçimler, hükûmete olumlu veya olumsuz mesaj vermenin en iyi yoludur.",
+            "Demokrasi en iyi sistem değildir fakat denediklerimiz arasında en kötüsü de değildir.",
+            "Herkesin oyu bir ve eşit olmalıdır."
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "Demokrasi, bir karar verme sürecinden daha fazlasıdır.",
+            "İnsanlar, yöneticilerini seçebilecek hakka ve güce sahip olmalıdır.",
+            "Hükûmet her zaman halkının yanında olmalıdır."
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "Bir lider ne kadar güçlü ve kısmen otorite sahibiyse o kadar iyidir.",
+            "Çoğunluğun görüşü her zaman doğru olmayabilir.",
+            "Liderler güçlü ve kısmen de olsa otoriter olmalı, yoksa halk acı çeker."
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+            "Hiyerarşik (toplumsal  düzen en iyisidir.",
+            "Toplum, liderler ve onları takip edenler olmadan var olamaz.",
+            "Demokrasi, azınlığın, çoğunluk tarafından ezilmesini kolaylaştırır."
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "Halk çoğunlukla yanlış kararlar verir.",
+            "Kendi hedeflerimizi diğer grupların hedeflerinin üzerinde tutmamız önemlidir, demokratik olmasa bile.",
+            "Halk, siyaset yapamayacak kadar duygusal ve değişkendir."
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
+            "Seçimler, kaynak israfıdır.",
+            "Halka doğrudan hizmet etmek millete zarar verir.",
+            "Halk, liderini sorgusuz sualsiz takip etmeli ve sorgulamamalıdır."
         ]],[//Globalist-Isolationist
         [//4
-            "A united world government would be beneficial to mankind.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "Tek dünya devleti, tek dünya dili ve tek dünya kültürü bütün insanlığa faydalı olacaktır.",
+            "Biz, her kimlikten öte Dünya Vatandaşı'yız.",
+            "İnsanlığın hayatta kalabilmesi için ulus ayrımından kurtulmalıyız."
         ],
         [//3
             "The United Nations needs more power",
@@ -91,274 +91,273 @@ questions =
             "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
         ],
         [//2
-            "I support regional unions, such as the European Union.",
-            "Governments should be accountable to the international community.",
-            "Nations fighting among each other gets in the way of progress"
+            "Avrupa Birliği gibi birlikleri destekliyorum.",
+            "Hükûmetler, uluslararası tüm dünya toplumuna karşı sorumlu olmalıdır.",
+            "Ulusların birbiriyle kavgası, ilerleme için bir engeldir."
         ],
         [//1
-            "International trade is generally beneficial.",
-            "Alliances are important for protecting a nation",
-            "Nations should cooperate whenever it benefits them both"
+            "Uluslararası ticaret genellikle faydalıdır.",
+            "İttifak ve birlikler, ulusları korumak için önemlidir.",
+            "İki millet, ikisinin de yararınaysa kesinlikle işbirliği yapmalıdır."
         ],
         [//-1
-            "It is important to maintain our national sovereignty.",
-            "My nation is closer to my views than most nations in the world",
-            "I am proud to be in my country"
+            "Ulusal egemenliğimizi korumak önceliklidir.",
+            "Benim milletim, benim görüşlerime diğer milletlere kıyasla daha yakındır.",
+            "Ülkemde olmaktan gurur duyuyorum."
         ],
         [//-2
-            "International aid is a waste of money.",
-            "Alliances can pose a threat to a nation's sovereignty.",
-            "National cultures are important to protect"
+            "Uluslararası yardım para israfıdır.",
+            "İttifaklar ve birlikler, ulusların egemenlikleri için bir tehdittir.",
+            "Milletimin kendi kültürünü muhafaza etmesi önemlidir."
         ],
         [//-3
-            "My nation should stay out of international affairs",
-            "The United Nations should be abolished.",
-            "Nobody in other countries has our best interests in mind"
+            "Milletim, uluslararası işlerden mutlaka uzak durmalıdır.",
+            "Birleşmiş Milletler gibi birlikler ortadan kaldırılmalıdır.",
+            "Diğer milletler bizim yararımızı düşünmezler."
         ],
         [//-4
-            "Diplomacy only hurts nations",
-            "There should not be international law",
-            "Any deals other countries want must be bad for us"
+            "Devletler arası diplomasi, milletlere zarar verir.",
+            "Uluslararası yasalar kesinlikle ortadan kaldırılmalıdır.",
+            "Diğer milletlerin bize sunacağı anlaşmalar hiçbir şekilde yararımıza olamaz."
         ]],[//Militarist-Pacifist
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
-            "Only those who serve in the military should be allowed to have influence on who is in power"
+            "Ekonomik büyüme için savaşa ihtiyacımız var.",
+            "Sürekli savaş durumu, bir ülke için faydalıdır.",
+            "Seçimlerde sadece orduda görevli olanlar oy vermelidir."
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "Zorunlu askerlik olmalıdır.",
+            "Bize yarar sağlamayan ülkelere düşman olmalı ve hatta onları yıkmalıyız.",
+            "Yalnızca orduda görev yapmış olanlar siyasetçi ve devlet adamı olabilmelidir."
         ],
         [//2
-            "Military action by our nation is often necessary to protect it.",
-            "Countries that violate human rights should be toppled",
-            "A military option should always be considered"
+            "Ulusumuzun askerî harekâtları, ulusumuzun güvenliği için gereklidir.",
+            "İnsan haklarını ihlal eden ülkelere asker çıkarmalı ve saldırmalıyız.",
+            "Askerî harekât, her zaman bir seçenek olmalıdır."
         ],
         [//1
-            "A government must maintain a strong military to defend itself",
-            "A nation usually needs a military in order to survive",
-            "We should respect those who have served in our military"
+            "Bir hükûmetin kendini koruyabilmesi için güçlü bir ordu, olmazsa olmazdır.",
+            "Bir millet, var olabilmek için bir orduya sahip olmalıdır.",
+            "Orduda görev yapmış olanlara saygı duyulmalıdır."
         ],
         [//-1
-            "It is more important to retain peaceful relations than to further our strength.",
-            "Diplomatic options should always be tried before war is even considered",
-            "Peace is preferable to war whenever possible"
+            "Askeri gücümüzü artırmak yerine barışçıl ilişkileri korumak ve sürdürmek daha faydalıdır.",
+            "Savaştan önce mutlaka diplomatik çözümler denenmelidir.",
+            "Barış mümkün olduğu sürece savaşa tercih edilmelidir."
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
-            "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "Otoriter bir rejimi protesto ederken bile şiddet kabul edilemez.",
+            "Kalıcı barış; refah, huzur ve zenginliği getirir.",
+            "Savaş genellikle daha kötü sonuçlara sebep olur."
         ],
         [//-3
-            "Military spending is a waste of money.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "Askerî harcamalar, para ve kaynak israfıdır.",
+            "Başka ülkelere askerî müdahalelerde bulunmaya hakkımız yok.",
+            "Ülkeler, savaşlarla parçalanır."
         ],
         [//-4
-            "War is never justified",
-            "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military"
+            "Savaş hiçbir şekilde meşrulaştırılamaz.",
+            "Modern çağda ordulara ihtiyaç yok.",
+            "Uluslar, ordularını ortadan kaldırmalıdır."
         ]],[//Security-Freedom
         [//4
-            "Those who disagree with the government should be removed from the country",
-            "The government should monitor all citizens to combat terrorism",
-            "People should not have protections that could hinder discovering their criminal activity"
+            "Hükûmetle aynı fikirde olmayanlar genellikle tehlikelilerdir.",
+            "Hükûmet, terörle mücadele için tüm vatandaşlarını denetime tabi tutmalıdır.",
+            "İnsanların suçlarınının ortaya çıkmasına engel olabilecek tüm engeller ortadan kaldırılmalıdır."
         ],
         [//3
-            "Police need more power and protection",
-            "It is very important to maintain law and order.",
-            "A country must be sure to take all measures to enforce its laws"
+            "Polisin, güvenliğimiz için daha fazla güce ve yetkiye ihtiyacı var.",
+            "Kanunları ve düzeni korumak, güvenliğimiz için çok önemlidir.",
+            "Bir ülke, yasalarını uygulayabilmek için her türlü tedbiri almalı ve gücünü kullanmalıdır."
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
-            "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-            "Government surveillance is necessary in the modern world."
+            "Devletin bizi sürekli izlemesinden, eğer suçlu değilsek, endişe duymamıza gerek yok.",
+            "Hükûmetin bizi terör eylemlerinden koruyabilmesi için bazı özgürlüklerimizden fedakârlık etmemiz gerekir.",
+            "Modern dünyada hükûmetin gözetimi gereklidir."
         ],
         [//1
-            "The government should have access to the emails of suspected terrorists",
-            "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "Hükûmetin, terörist olduğundan şüphelenilen kişilerin e-postalarına erişimi olmalıdır.",
+            "Şüpheli durumlarda insanların güvende tutulması için bazı özgürlüklerden geçici olarak vazgeçilmelidir.",
+            "Aşırı özgürlük, toplumu tehlikeli kılabilir."
         ],
         [//-1
-            "Marijuana should be legalized",
-            "People should be given freedom whenever it causes little security risk",
-            "The government has no business looking into most people's personal lives"
+            "Esrar yasallaştırılmalı.",
+            "Güvenlik riski olsa da özgürlük öncelikli olmalıdır.",
+            "Hükûmetin özel hayatlarla ilgisi olmamalıdır."
         ],
         [//-2
-            "Abortion should be legal in all cases",
-            "Police should be regulated more",
-            "No authority should be left unquestioned."
+            "Kürtaj her durumda yasal olmalıdır.",
+            "Polisin yetkilerinin azaltılması tartışmaya açık olmalıdır.",
+            "Her otorite sorgulanmalıdır."
         ],
         [//-3
-            "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
-            "Whistleblowers should be strongly protected"
+            "Kurbansız suçlar (uyuşturucu kullanımı gibi) suç olmamalıdır.",
+            "Uyuşturucular yasallaştırılmalıdır.",
+            "Emniyet kemeri kullanmak, sürücünün kendi tercihi olmalıdır."
         ],
         [//-4
-            "The very existence of the state is a threat to our liberty.",
-            "There should be no police force",
-            "People's freedom should have no limits"
+            "Devletin varlığı, özgürlüğümüz için bir tehdittir.",
+            "Polis kuvveti tamamen ortadan kaldırılmalıdır.",
+            "İnsanların özgürlüklerinin sınırsız olmalıdır."
         ]],[//Equality-Markets`
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
-            "From each according to his ability, to each according to his need",
-            "Equality of outcome is important"
+            "Komünizm, eğer doğru uygulanırsa, uygun bir yönetim şeklidir.",
+            "Herkesten yeteneğine göre, herkese ihtiyacına göre, temelde iyi bir fikirdir.",
+            "Sonuç eşitliği, her durumda önemli ve önceliklidir."
         ],
         [//3
-            "Oppression by corporations is more of a concern than oppression by governments.",
-            "Taxes should be increased on the rich to provide for the poor.",
-            "Public utilities like roads and electricity should be publicly owned."
+            "Şirket baskısı, devlet baskısından çok daha endişe vericidir.",
+            "Yoksulların geçimini sağlamak için zenginlerin vergisi artırılmalıdır.",
+            "Yollar, elektrik ve kamu hizmetleri halka, çalışma aletleri işçilere ait olmalıdır."
         ],
         [//2
-            "I support single-payer, universal healthcare.",
-            "The wealthy have far more than they need",
-            "Basic things needed to live, such as healthcare, are rights"
+            "Tek ödemeli evrensel (devletin karşıladığı) sağlık hizmetini destekliyorum.",
+            "Zenginler, ihtiyaç duyduklarından çok daha fazlasına sahipler.",
+            "Temel insan ihtiyaçları, sağlık hizmetleri gibi, ücretsiz ve erişilebilir olmalıdır."
         ],
         [//1
-            "It is necessary for the government to intervene in the economy to protect consumers.",
-            "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "Tüketiciyi korumak için devletin ekonomiye müdahalesi kabul edilebilir olmalıdır.",
+            "İnsanlar başarılı olmak için fırsat eşitliğine sahip olmalıdır.",
+            "Zengin ailelerde doğanlar, tembel ve vasıfsız olsalar da hak etmedikleri şekilde başarılı oluyorlar."
         ],
         [//-1
-            "People should have the right to leave their wealth to their descendents",
-            "Excessive government intervention is a threat to the economy.",
-            "Economies without any capitalism will collapse"
+            "İnsanlar, servetlerini sonraki nesillere bırakma hakkına sahip olmalıdır.",
+            "Hükûmetin ekonomiye müdahalesi, ekonomi için bir tehdittir.",
+            "Kapitalizm, diğer tüm alternatiflerden daha iyidir.",
         ],
         [//-2
-            "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-            "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "İşsizliği çözmek yerine enflasyonu ve bütçeyi korumak daha iyidir.",
+            "Kapitalizmin olmadığı ekonomiler çöker.",
+            "Devletin kendi sanayisin olması kötü bir fikirdir."
         ],
         [//-3
-            "The freer the market, the freer the people",
-            "People should have to work for anything they get",
-            "The poor choose to be poor"
+            "Piyasa ne kadar özgürse insan o kadar özgür olur.",
+            "İnsan, elde edebileceği her şey için çalışmak zorunda olmalıdır.",
+            "Fakirler, fakir olmayı tercih eder."
         ],
         [//-4
-            "The government should not regulate the economy at all",
-            "The government should not break up monopolies",
-            "Those who do not work should die"
+            "Hükûmetin ekonomiye müdahalesi kabul edilemez.",
+            "Devlet, tekellere dokunmamalıdır.",
+            "Çalışmayanlar ölmelidir."
         ]],[//Secular-Religious
         [//4
-            "Religion should be banned",
-            "Faith is complete nonsense",
-            "Religion must decline for society to progress"
+            "Din yasaklanmalıdır.",
+            "İnanç saçmalıktan ibarettir.",
+            "Tanrı veya başka bir üst güç yoktur."
         ],
         [//3
-            "Religious clothing should be banned from public",
-            "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "Dinî kıyafetler, toplum içinde yasaklanmalıdır.",
+            "Toplumun ilerlemesi için dinler azaltılmalı veya reddedilmelidir.",
+            "Hükûmet, ibadet yerleri dahil hiçbir dinî kuruluşu fonlamamalıdır."
         ],
         [//2
-            "I support gay marriage",
-            "Every religion must be looked upon equally by the government",
-            "Religion should be removed from everything in our government"
+            "Evlilik olmadan cinsellik normaldir.",
+            "Devlet katında her din eşit olmalıdır.",
+            "Dine dair her şey devletten kaldırılmalıdır."
         ],
         [//1
-            "Religion does not belong in government",
-            "Laws should not be based on religion",
-            "There must be a separation between church and state"
+            "Din ile devlet arasında bir ilişki olmamalıdır.",
+            "Yasalar, din bazlı olmamalıdır.",
+            "Devlet; kilise, cami ve diğerleriyle arasında mesafe bulundurmalıdır."
         ],
         [//-1
-            "I believe there is something after death",
-            "Religion is beneficial for society",
-            "People must be allowed to follow a religion"
+            "Ölümden sonra bir yaşam olduğuna inanıyorum.",
+            "Dinin topluma faydası vardır.",
+            "İnsanlar bir dine inanmalıdır."
         ],
         [//-2
-            "I believe in a higher power",
-            "Religious organizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "Tanrı veya başka bir üst güce inanıyorum.",
+            "Dinî kuruluşlar, yoksullara yardım konusunda devlet kuruluşları ve sivil kuruluşlardan daha iyidir.",
+            "Çocuklara dinî eğitim verilmelidir."
         ],
         [//-3
-            "Religion usually provides the truth",
-            "My religious values should be spread as much as possible.",
-            "Sex outside marriage is immoral."
+            "Din, doğruyu anlatır.",
+            "Dinî değerlerimiz olabildiğince çok yayılmalıdır.",
+            "Evlilik dışı cinsellik, ahlaksızlıktır."
         ],
         [//-4
-            "Theocracy is a good system of government",
-            "The government should support and only recognize one religion",
-            "Most bad things happening in the world are caused by us turning away from religion"
+            "Teokrasi (dine dayalı yönetim), iyi bir sistemdir.",
+            "Hükûmet, yalnızca bir dini desteklemeli ve tanımalıdır.",
+            "Dünyada yaşadığımız kötü şeyler, dinden uzaklaştığımızdan dolayıdır."
         ]],[//Progressive-Traditional
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
-            "Tradition just hinders the progress of technology"
+            "Eğer yapay zekâ, insanlardan daha iyi yönetebiliyorsa, yapay zekâ yönetmeli.",
+            "Genetik modifikasyon, insanlık için iyi bir güçtür.",
+            "Gelenekler, teknolojik gelişmeyi engeller."
         ],
         [//3
-            "Automation overall is extremely good for society",
-            "Traditions are of no value on their own.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "Otomasyon (insansız, otomatik ve robotik) sistemler toplum için son derece olumludur.",
+            "Gelenekler, tek başına değersiz ve anlamsızdır.",
+            "Teknolojiyi her alana yaymalı ve kullanmalıyız."
         ],
         [//2
-            "We should put effort into getting a person on Mars in the near future",
-            "Testing products on animals is ethical",
-            "Technological progress is usually good"
-
+            "Yakın gelecekte Mars'a insan göndermeliyiz.",
+            "Bilim ve ilerleme için, ürünlerin hayvanlar üzerinde test edilmesi etiktir.",
+            "Teknolojik ilerleme iyidir."
         ],
         [//1
-            "Human Caused climate change is currently one of the greatest threats to our way of life.",
-            "Environmental regulations are essential.",
-            "A better world will come from automation, science, and technology."
+            "İnsan kaynaklı iklim değişikliği, yaşam tarzımıza yönelik en büyük tehditlerden biridir.",
+            "Çevrenin korunması için düzenlemeler önemlidir.",
+            "Daha iyi bir dünya; otomasyon, bilim ve teknolojiden doğacaktır."
         ],
         [//-1
-            "To chase progress at all costs is dangerous.",
-            "Technology is not always beneficial",
-            "Traditions are important"
+            "Her ne pahasına olursa olsun ilerlemeyi kovalamak tehlikelidir.",
+            "Teknoloji her zaman faydalı değildir.",
+            "Geleneklerimiz önemlidir."
         ],
         [//-2
-            "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
-            "Maintaining family values is essential."
+            "Teknoloji, toplumu olumsuz etkiliyor.",
+            "Genetik modifikasyon, kritik ve acil olmadığı sürece yasak olmalıdır.",
+            "Aile değerlerinin muhafaza edilmesi çok önemlidir."
         ],
         [//-3
-            "Society was better many years ago than it is now.",
-            "It is important that we maintain the traditions of our past.",
-            "The elders in society know the best path for it"
+            "Toplum, eskiden çok daha iyiydi.",
+            "Geçmişimizin geleneklerine sahip çıkmamız çok önemlidir.",
+            "Toplumun büyükleri, en doğru yolu bilir."
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
+            "Geleneksel ilaçlar, bilimsel ve modern ilaçlardan daha iyidir.",
+            "İnternet yasaklanmalıdır.",
+            "Modern kolaylıkların olmadığı temel yaşam tarzımıza acilen geri dönmeliyiz."
         ]],[//Assimilationist-Multiculturalist
         [//4
-            "Foreigners should never enter the country",
-            "We should not allow any refugees",
-            "Only our national language(s) should be spoken in our country"
+            "Hiçbir mülteciyi kabul etmemeliyiz.",
+            "Ülkemde azınlıklar uzun yıllardır bu topraklarda yaşasalar da dilleri toplum içinde konuşulmamalıdır.",
+            "Bir ülkede etnik köken ve dil sayısı ne kadar azsa o kadar iyidir."
         ],
         [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
-            "If we accept migrants at all, it is important that they assimilate into our culture.",
-            "Immigrants can never really adapt to our way of life"
+            "Yalnızca son derece yetenekli ve donanımlı mültecilere izin verilmelidir.",
+            "Eğer göçmenleri kabul edeceksek, kültürümüze asimile edilmeleri olmazsa olmazdır.",
+            "Birinci nesil göçmenler, yaşam tarzımıza asla uyum sağlayamazlar."
         ],
         [//2
-            "In general, immigrants are bad for the country",
-            "A nation's culture is important to protect",
-            "Illegal immigrants do not provide a benefit to the hosting country"
+            "Genel olarak sığınmacılar ülkemiz için kötüdür.",
+            "Milletin değerlerinin korunması ve muhafaza edilmesi önemlidir.",
+            "Yasadışı göçmenler, ülkeye bir yarar sağlamaz."
         ],
         [//1
-            "Illegal immigrants should be deported in most or all cases",
-            "Immigrants should be expected to learn the language of the country",
-            "Border protection is important"
+            "Yasadışı göçmenler çoğu durumda sınır dışı edilmelidir.",
+            "Göçmenlerin ülkenin dilini öğrenmesi beklenmelidir.",
+            "Sınır güvenliği önemlidir."
         ],
         [//-1
-            "We should be taking in more refugees",
-            "Immigrants are a net positive",
-            "I enjoy some foreign cultures"
+            "Mülteci almamız büyük bir sorun değildir.",
+            "Göçmenler, ülkemiz için faydalı ve olumludur.",
+            "Yabancı kültürleri ülkemde görmeyi seviyorum."
         ],
         [//-2
-            "No cultures are superior to others.",
-            "We should be more accepting to other cultures",
-            "All societies are a blend of cultures"
+            "Hiçbir kültür birbirine üstün değildir, nasıl olursa olsun.",
+            "Diğer kültürleri daha çok kabullenmeliyiz.",
+            "Bütün toplumlar, kültürlerin karışımıdır ve karışmalıdır."
         ],
         [//-3
-            "Everybody should speak at least two languages",
-            "All humans share a common identity",
-            "Our culture would be better with other cultures mixed in more"
+            "Göçmenlerin diline aşina olmalıyız.",
+            "Göçmenler ile vatandaşlar ortak kimliği paylaşmalıdır.",
+            "Kültürümüzü diğer kültürlerle daha çok karıştırmalıyız."
         ],
         [//-4
-            "Governments should be as concerned about foreign citizens as they are about those within their borders.",
-            "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "Hükûmetler vatandaşlara ve göçmenlere eşit muamelede bulunmalıdır.",
+            "Ülkeme girmek isteyenler girebilmelidir.",
+            "Açık sınırların zarardan ziyade fayda sağlar."
         ]
     ]];
