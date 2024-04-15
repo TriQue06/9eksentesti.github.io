@@ -114,15 +114,15 @@
     rightArray = ["Unitary","Authoritarian","Isolationist","Pacifist","Freedom","Markets","Religious","Traditional","Multiculturalist"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { return "Fanatic " + leftArray[axis] } else
-        if (val >= 80) { return "Extreme " + leftArray[axis] } else
+        if (val >= 90) { return "Radikal " + leftArray[axis] } else
+        if (val >= 80) { return "Kuvvetli " + leftArray[axis] } else
         if (val >= 70) { return leftArray[axis] } else
-        if (val >= 60) { return "Moderate " + leftArray[axis] } else
-        if (val > 40) { return "Neutral" } else
-        if (val > 30) { return "Moderate " + rightArray[axis] } else
+        if (val >= 60) { return "Ilımlı " + leftArray[axis] } else
+        if (val > 40) { return "Nötr" } else
+        if (val > 30) { return "Ilımlı " + rightArray[axis] } else
         if (val > 20) { return rightArray[axis] } else
-        if (val > 10) { return "Extreme " + rightArray[axis] } else
-        	{return "Fanatic " + rightArray[axis]}
+        if (val > 10) { return "Kuvvetli " + rightArray[axis] } else
+        	{return "Radikal " + rightArray[axis]}
     }
 
     a  = getQueryVariable("a")
@@ -178,10 +178,10 @@
     ideodist = Infinity
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
-        dist += Math.pow(Math.abs(ideologies[i].stats.econ - f), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.govt - b), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.dipl - c), 1.73856063)
-        dist += Math.pow(Math.abs(ideologies[i].stats.scty - h), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.socialist_capitalist - f), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.democrat_authoritarian - b), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.globalist_isolationist - c), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.progress_tradition - h), 1.73856063)
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
