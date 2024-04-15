@@ -179,9 +179,7 @@
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
         dist += Math.pow(Math.abs(ideologies[i].stats.socialist_capitalist - f), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.democrat_authoritarian - b), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.globalist_isolationist - c), 1.73856063)
-        dist += Math.pow(Math.abs(ideologies[i].stats.progress_tradition - h), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.security_freedom - e), 2)
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
